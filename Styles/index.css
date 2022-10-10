@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.Logo {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 90px;
+}
+
+.Button1 {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -22px;
+    margin-right: 220px;
+}
+
+.Button2 {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -22px;
+    margin-right: 125px;
+}
+
+.Button-text {
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+    letter-spacing: -0.346154px;
+    color: #111111;
+}
+
+.Title {
+    display: flex;
+    margin-top: 110px;
+    margin-left: 90px;
+}
+
+.Title-text {
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 55px;
+    /* or 138% */
+    color: #111111;
+}
+
+.Info {
+    display: flex;
+    margin-top: 9px;
+    margin-left: 90px;
+}
+
+.Info-text {
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #111111;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.Form {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -17rem;
+    margin-right: 125px;
+}
+
+.Map {
+    display: flex;
+    margin-top: 120px;
+    margin-left: 90px;
+}
+
+.Footer {
+    display: flex;
+    margin-top: 110px;
+    margin-left: 90px;
+    margin-bottom: 46px;
+}
